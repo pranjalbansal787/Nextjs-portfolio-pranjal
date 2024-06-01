@@ -6,7 +6,7 @@ const   projects: IProjectItem[] = [
     title: "Disney+ Hotstar Clone",
     description:
       "A Disney+ Hostar clone developed using React.js, Javascript, Firebase and Styled Components.",
-    icon: "/skills/React.svg",
+    icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/pranjalbansal787/Disney-Hotstar",
@@ -32,7 +32,7 @@ const   projects: IProjectItem[] = [
     title: "Password Generator",
     description:
       "A password generator built using React.js that allows user to make passwords of different types based on their prefrences",
-    icon: "/skills/React.svg",
+    icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/pranjalbansal787/password-generator-react",
