@@ -31,7 +31,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
               </p>
 
               <p className="text-sm/6 font-medium text-[var(--textColorLight)] drop_in">
-                Software Enginner & Full Stack Developer
+                Software Development Engineer
               </p>
 
               <p className="text-base/normal mt-8 drop_in">
