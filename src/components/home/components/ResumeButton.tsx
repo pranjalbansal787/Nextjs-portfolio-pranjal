@@ -5,7 +5,7 @@ const ResumeButton = () => {
   return (
     <Link
       className="app__outlined_btn min-w-[12rem]"
-      href={LocalConfig.values.NEXT_PUBLIC_RESUME_LINK}
+      href="https://drive.google.com/file/d/19uMu7e7SCh-THViNf5ZXUKQRk7iXjb3S/view?usp=sharing"
       target="_blank"
     >
       Download Resume
